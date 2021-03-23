@@ -6,7 +6,7 @@
                 <about class="w-56 h-56 mt-20" />
                 <div class="mt-16 ml-10">
                     <span class="text-green-300 font-semibold text-3xl">John Kevin Baltazar</span>
-                    <p class="text-gray-300 text-2xl">Back-end Developer</p>
+                    <p class="text-gray-300 text-2xl">Back-end Developer <span class="italic">(Internship)</span></p>
                     <div class="flex flex-row mt-3">
                         <a href="https://github.com/kevinbaltazar" target="_blank">
                             <div class="w-10 h-10 text-white hover:text-green-300 cursor-pointer">
@@ -30,17 +30,25 @@
                         <p>0951-348-9084</p>
                     </div>
                     
-                    <a href="#" class="text-white bg-gray-900 absolute right-0 p-4 -mt-16 rounded-xl flex flex-row hover:text-green-300">
+                    <a href="https://drive.google.com/file/d/1sIFCDSZXr3NH18F478fWGnguCdy452Tz/view?usp=sharing" target="_blank" class="text-white bg-gray-900 absolute right-0 p-4 -mt-16 rounded-xl flex flex-row hover:text-green-300">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
                         Download my CV
                     </a>
                 </div>
             </div>
             <div class="absolute mt-80 ml-20 pr-16">
-                <p class="text-4xl text-green-300 font-semibold"> Who am I?</p>
+                <p class="text-4xl text-green-300 font-semibold">Who am I?</p>
                 <br>
                 <p class="text-gray-300 text-lg">I'm a developer who works with the Laravel framework. I'm currently learning vue.js for the front end in preparation for becoming a full-stack developer in the near future.</p>
                 <br>
+                <p class="text-4xl text-green-300 font-semibold">What i know</p>
+                <div class="flex flex-row mt-3">
+                    <img class="h-16 mr-5" src="/image/icon/php.png">
+                    <img class="h-16 mr-5" src="/image/icon/js.png">
+                    <img class="h-16 mr-5" src="/image/icon/html-5.png">
+                    <img class="h-16 mr-5" src="/image/icon/css.png">
+                    <img class="h-16 mr-5" src="/image/icon/mysql.png">
+                </div>  
             </div>
         </div>
     </layout>

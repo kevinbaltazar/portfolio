@@ -10,13 +10,13 @@
                         <h1 class="text-2xl text-white font-medium">Portfolio</h1>
                         <p class="text-gray-300 mt-4">My personal website and project listing that you are on this page right now.</p>
                         <div class="mt-4 flex flex-row gap-3 text-gray-300">
-                            <a href="#">
+                            <a href="#" target="_blank">
                                 <div class="flex flex-row gap-1 hover:text-green-300">
                                     Website
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                                 </div>
                             </a>
-                            <a href="#">
+                            <a href="https://github.com/kevinbaltazar/portfolio" target="_blank">
                                 <div class="flex flex-row gap-1 hover:text-green-300">
                                     Github
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
@@ -31,13 +31,13 @@
                         <h1 class="text-2xl text-white font-medium">bpls.online</h1>
                         <p class="text-gray-300 mt-4">Our Capstone Project. We automate Business Permit and Business Clearance in our barangay.</p>
                         <div class="mt-4 flex flex-row gap-3 text-gray-300">
-                            <a href="#">
+                            <a href="http://bpls.online/" target="_blank">
                                 <div class="flex flex-row gap-1 hover:text-green-300">
                                     Website
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                                 </div>
                             </a>
-                            <a href="#">
+                            <a href="https://github.com/kevinbaltazar/bpls" target="_blank">
                                 <div class="flex flex-row gap-1 hover:text-green-300">
                                     Github
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
